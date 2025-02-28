@@ -1,1 +1,1 @@
-# invest-backend
+# invest-recommendation-service
